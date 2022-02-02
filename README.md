@@ -9,6 +9,7 @@ pip install -r requirements.txt
 flask db migrate
 flask db upgrade
 flask run
+```
 
 ## Technologi Stack
 - Flask
