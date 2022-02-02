@@ -11,7 +11,7 @@ flask db upgrade
 flask run
 ```
 
-## Technologi Stack
+## Technology Stack
 - Flask
 - Flask RESTful
 - SQLAlchemy
